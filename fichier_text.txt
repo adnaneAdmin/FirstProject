@@ -2,3 +2,4 @@ mon nouveau fichier
 nouvelle ligne
 ajouter ....
 specifique
+ligne speciale
